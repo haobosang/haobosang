@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/haobosang/TinyTensor)  
   
 
-- 🌱 I’m currently learning TensorRt and TVM  
+- 🌱 I’m currently learning TensorRT and TVM  
   
 
 - ❓ Ask me about anything related to pytorch and related technologies  
