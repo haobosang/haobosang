@@ -16,6 +16,8 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
+
+- If you have a job recommendation, you can contact me in time.
   
 
 <br/>  
@@ -85,12 +87,4 @@
 
 
 <br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/haobosang" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+<div align=center><img width="200" height="200" src="./img/Weixin.jpg"/></div>
